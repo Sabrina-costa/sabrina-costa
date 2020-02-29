@@ -1,3 +1,3 @@
 public class ClasseA{ 
-  s
+  private String nome;
 }
